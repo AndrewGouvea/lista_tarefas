@@ -5,7 +5,7 @@
 
 Projeto feito com as seguintes tecnologias:
 
-• HTML e CSS
+• CSS
 
 • PHP
 
